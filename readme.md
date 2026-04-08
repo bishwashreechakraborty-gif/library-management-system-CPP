@@ -22,7 +22,8 @@ A robust, console-based application built using **Object-Oriented Programming (O
 ## 📋 How to Run
 
 1.  **Clone the repository:**
-    ```bash    git clone https://github.com/bishwashreechakraborty-gif/library-management-system-CPP.git
+    ```bash
+    git clone https://github.com/bishwashreechakraborty-gif/library-management-system-CPP.git
     ```
 2.  **Navigate to the directory:**
     ```bash
