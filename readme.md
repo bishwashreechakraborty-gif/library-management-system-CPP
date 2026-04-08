@@ -54,6 +54,6 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ---
 
-**Developed by Bishwashree Chakraborty**
-**B.Tech CSE Student**
+**Developed by Bishwashree Chakraborty |**
+**B.Tech CSE Student |**
 **Passionate about programming and problem-solving**
