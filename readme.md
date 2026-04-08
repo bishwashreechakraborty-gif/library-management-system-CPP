@@ -23,11 +23,11 @@ A robust, console-based application built using **Object-Oriented Programming (O
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/Library-Management-System-CPP.git](https://github.com/YOUR_USERNAME/Library-Management-System-CPP.git)
+    git clone [https://github.com/bishwashreechakraborty-gif/library-management-system-CPP.git](https://github.com/bishwashreechakraborty-gif/library-management-system-CPP.git)
     ```
 2.  **Navigate to the directory:**
     ```bash
-    cd Library-Management-System-CPP
+    cd library-management-system-CPP
     ```
 3.  **Compile the code:**
     Using G++:
@@ -55,3 +55,5 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 ---
 
 **Developed by Bishwashree Chakraborty**
+**B.Tech CSE Student**
+**Passionate about programming and problem-solving**
